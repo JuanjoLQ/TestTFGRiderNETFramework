@@ -30,6 +30,8 @@ namespace TestTFGRyderNETFramework
             
             numero = 78;
             
+            numero = 78;
+            
             MessageBox.Show("Ha pasado el breakpoint");
             //throw new System.NotImplementedException();
         }
