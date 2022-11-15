@@ -1,0 +1,11 @@
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\bin\Debug\TestTFGRyderNETFramework.exe.config
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\bin\Debug\TestTFGRyderNETFramework.exe
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\bin\Debug\TestTFGRyderNETFramework.pdb
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.csproj.AssemblyReference.cache
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.Properties.Resources.resources
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.csproj.GenerateResource.cache
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.exe
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.pdb
+C:\Users\Jesus\RiderProjects\TestTFGRyderNETFramework\TestTFGRyderNETFramework\obj\Debug\TestTFGRyderNETFramework.Form1.resources
